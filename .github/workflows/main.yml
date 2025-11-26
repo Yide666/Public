@@ -2,7 +2,8 @@ name: A-Stock Market Analysis
 
 on:
   schedule:
-    - cron: '0 1,7 * * 1-5'  # 北京时间9点和15点运行（UTC时间1点和7点）
+    - cron: '25 1 * * 1-5'  # 北京时间上午9点25分
+    - cron: '0 7 * * 1-5'   # 北京时间下午15点
   workflow_dispatch:       # 允许手动触发
 
 jobs:
