@@ -5,111 +5,111 @@
       "code": "300638",
       "name": "广和通",
       "change_pct": 20.01,
-      "price": 887579056.0,
-      "volume": 25.09,
+      "price": 1014700192.0,
+      "volume": 27.35,
       "amount": 69.17,
       "pe": 28.4,
       "market_cap": -51.500088206092,
-      "timestamp": "2025-12-01 11:19:09"
+      "timestamp": "2025-12-01 15:14:13"
+    },
+    {
+      "code": "301256",
+      "name": "华融化学",
+      "change_pct": 20.01,
+      "price": 80333451.0,
+      "volume": 13.71,
+      "amount": 116.66,
+      "pe": 13.79,
+      "market_cap": -17.008393659606,
+      "timestamp": "2025-12-01 15:14:13"
     },
     {
       "code": "301148",
       "name": "嘉戎技术",
       "change_pct": 20.01,
-      "price": 14160399.0,
-      "volume": 1.57,
+      "price": 15552555.0,
+      "volume": 1.63,
       "amount": 58.4,
       "pe": 39.64,
       "market_cap": 12.950839680273,
-      "timestamp": "2025-12-01 11:19:09"
+      "timestamp": "2025-12-01 15:14:13"
+    },
+    {
+      "code": "688260",
+      "name": "昀冢科技",
+      "change_pct": 20.0,
+      "price": 127180194.0,
+      "volume": 19.92,
+      "amount": -31.66,
+      "pe": 40.61,
+      "market_cap": -82.943170914789,
+      "timestamp": "2025-12-01 15:14:13"
     },
     {
       "code": "300903",
       "name": "科翔股份",
       "change_pct": 20.0,
-      "price": 177018583.0,
-      "volume": 11.86,
+      "price": 191371548.0,
+      "volume": 12.33,
       "amount": -52.69,
       "pe": 18.0,
       "market_cap": 31.578564653655,
-      "timestamp": "2025-12-01 11:19:09"
+      "timestamp": "2025-12-01 15:14:13"
+    },
+    {
+      "code": "300223",
+      "name": "北京君正",
+      "change_pct": 20.0,
+      "price": 542985328.0,
+      "volume": 16.86,
+      "amount": 134.83,
+      "pe": 80.64,
+      "market_cap": -15.989998021905,
+      "timestamp": "2025-12-01 15:14:13"
     },
     {
       "code": "301567",
       "name": "贝隆精密",
       "change_pct": 20.0,
-      "price": 109066120.0,
-      "volume": 40.65,
+      "price": 123886341.0,
+      "volume": 42.78,
       "amount": 170.34,
       "pe": 46.0,
       "market_cap": -32.219086130433,
-      "timestamp": "2025-12-01 11:19:09"
-    },
-    {
-      "code": "688260",
-      "name": "昀冢科技",
-      "change_pct": 16.94,
-      "price": 107418396.0,
-      "volume": 16.2,
-      "amount": -30.85,
-      "pe": 40.61,
-      "market_cap": -82.943170914789,
-      "timestamp": "2025-12-01 11:19:09"
-    },
-    {
-      "code": "300053",
-      "name": "航宇微",
-      "change_pct": 16.19,
-      "price": 362823568.0,
-      "volume": 24.28,
-      "amount": -127.25,
-      "pe": 15.19,
-      "market_cap": -18.191343874207,
-      "timestamp": "2025-12-01 11:19:09"
-    },
-    {
-      "code": "300952",
-      "name": "恒辉安防",
-      "change_pct": 14.65,
-      "price": 7699180.0,
-      "volume": 14.54,
-      "amount": 53.75,
-      "pe": 31.21,
-      "market_cap": -12.849438943347,
-      "timestamp": "2025-12-01 11:19:09"
-    },
-    {
-      "code": "300812",
-      "name": "易天股份",
-      "change_pct": 14.51,
-      "price": 29577076.0,
-      "volume": 17.5,
-      "amount": 84.13,
-      "pe": 24.26,
-      "market_cap": 348.815989108163,
-      "timestamp": "2025-12-01 11:19:09"
+      "timestamp": "2025-12-01 15:14:13"
     },
     {
       "code": "301383",
       "name": "天键股份",
-      "change_pct": 14.48,
-      "price": 96884492.0,
-      "volume": 15.45,
-      "amount": -503.78,
+      "change_pct": 19.91,
+      "price": 152933112.0,
+      "volume": 27.3,
+      "amount": -527.66,
       "pe": 33.71,
       "market_cap": -105.625079130859,
-      "timestamp": "2025-12-01 11:19:09"
+      "timestamp": "2025-12-01 15:14:13"
     },
     {
-      "code": "688523",
-      "name": "航天环宇",
-      "change_pct": 12.15,
-      "price": 97620964.0,
-      "volume": 30.09,
-      "amount": 252.87,
-      "pe": 37.95,
-      "market_cap": 0.560796337301,
-      "timestamp": "2025-12-01 11:19:09"
+      "code": "300576",
+      "name": "容大感光",
+      "change_pct": 17.86,
+      "price": 464907616.0,
+      "volume": 28.88,
+      "amount": 113.87,
+      "pe": 35.21,
+      "market_cap": -6.017829223176,
+      "timestamp": "2025-12-01 15:14:13"
+    },
+    {
+      "code": "300053",
+      "name": "航宇微",
+      "change_pct": 14.75,
+      "price": 377749776.0,
+      "volume": 30.39,
+      "amount": -125.66,
+      "pe": 15.19,
+      "market_cap": -18.191343874207,
+      "timestamp": "2025-12-01 15:14:13"
     }
   ],
   "sentiment_analysis": null,
@@ -118,7 +118,7 @@
       "theme_name": "消费电子",
       "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.9,
+      "avg_change": 2.87,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -127,38 +127,14 @@
       "related_news": []
     },
     {
-      "theme_name": "航天航空",
-      "popularity_score": 0.57,
+      "theme_name": "电子化学品",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 2.38,
+      "avg_change": 2.69,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "有色金属",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.27,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.96"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "通信设备",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 2.01,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.05"
+        "17.86"
       ],
       "related_news": []
     },
@@ -166,7 +142,7 @@
       "theme_name": "贵金属",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 2.0,
+      "avg_change": 2.09,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -175,22 +151,34 @@
       "related_news": []
     },
     {
-      "theme_name": "光学光电子",
+      "theme_name": "采掘行业",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.87,
+      "avg_change": 2.09,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.01"
+        "8.56"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
       ],
       "related_news": []
     },
     {
       "theme_name": "旅游酒店",
-      "popularity_score": 0.55,
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.78,
+      "avg_change": 1.87,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,26 +187,26 @@
       "related_news": []
     },
     {
-      "theme_name": "采掘行业",
-      "popularity_score": 0.55,
+      "theme_name": "通信设备",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.76,
+      "avg_change": 1.86,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "5.77"
+        "10.05"
       ],
       "related_news": []
     },
     {
-      "theme_name": "电子元件",
+      "theme_name": "半导体",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.65,
+      "avg_change": 1.74,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "20.0"
+        "9.99"
       ],
       "related_news": []
     },
@@ -226,14 +214,26 @@
       "theme_name": "贸易行业",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.57,
+      "avg_change": 1.71,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
         "10.12"
       ],
       "related_news": []
+    },
+    {
+      "theme_name": "光学光电子",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
     }
   ],
-  "generated_at": "2025-12-01 11:19:16"
+  "generated_at": "2025-12-01 15:14:21"
 }
