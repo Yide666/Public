@@ -5,132 +5,120 @@
       "code": "300269",
       "name": "联建光电",
       "change_pct": 20.03,
-      "price": 148266587.0,
-      "volume": 26.47,
+      "price": 178756040.0,
+      "volume": 28.34,
       "amount": 162.39,
       "pe": 6.06,
       "market_cap": 364.648222451027,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
       "code": "301148",
       "name": "嘉戎技术",
       "change_pct": 20.01,
-      "price": -10569004.0,
-      "volume": 17.69,
+      "price": -5696885.0,
+      "volume": 18.07,
       "amount": 70.09,
       "pe": 42.97,
       "market_cap": 12.950839680273,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
+    },
+    {
+      "code": "301191",
+      "name": "菲菱科思",
+      "change_pct": 20.0,
+      "price": 183561982.0,
+      "volume": 20.1,
+      "amount": 124.96,
+      "pe": 92.37,
+      "market_cap": -55.255132247929,
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
       "code": "301136",
       "name": "招标股份",
       "change_pct": 20.0,
-      "price": 164027980.0,
-      "volume": 15.26,
+      "price": 202343642.0,
+      "volume": 16.8,
       "amount": 572.43,
       "pe": 15.83,
       "market_cap": 476.014900646642,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
+    },
+    {
+      "code": "688711",
+      "name": "宏微科技",
+      "change_pct": 15.85,
+      "price": 149470136.0,
+      "volume": 15.75,
+      "amount": 783.94,
+      "pe": 22.35,
+      "market_cap": 32.779332638603,
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
       "code": "300456",
       "name": "赛微电子",
-      "change_pct": 14.58,
-      "price": 64717072.0,
-      "volume": 20.69,
-      "amount": 20.24,
+      "change_pct": 15.27,
+      "price": 211461024.0,
+      "volume": 30.23,
+      "amount": 20.36,
       "pe": 49.4,
       "market_cap": 1438.04849338958,
-      "timestamp": "2025-12-02 10:56:22"
-    },
-    {
-      "code": "300555",
-      "name": "ST路通",
-      "change_pct": 11.89,
-      "price": 11002500.0,
-      "volume": 4.85,
-      "amount": -63.07,
-      "pe": 13.75,
-      "market_cap": 1.245051013598,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
       "code": "688719",
       "name": "爱科赛博",
-      "change_pct": 11.75,
-      "price": 60773932.0,
-      "volume": 12.9,
-      "amount": -85.77,
+      "change_pct": 15.06,
+      "price": 83781915.0,
+      "volume": 17.04,
+      "amount": -88.31,
       "pe": 36.43,
       "market_cap": -226.798701948702,
-      "timestamp": "2025-12-02 10:56:22"
-    },
-    {
-      "code": "300123",
-      "name": "亚光科技",
-      "change_pct": 11.67,
-      "price": 152060060.0,
-      "volume": 26.3,
-      "amount": -67.51,
-      "pe": 7.58,
-      "market_cap": -20.419595806467,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
       "code": "300300",
       "name": "海峡创新",
-      "change_pct": 11.01,
-      "price": -52865099.0,
-      "volume": 21.36,
-      "amount": -523.69,
+      "change_pct": 13.53,
+      "price": 3169232.0,
+      "volume": 31.89,
+      "amount": -535.58,
       "pe": 15.86,
       "market_cap": 66.873551673525,
-      "timestamp": "2025-12-02 10:56:22"
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
-      "code": "600340",
-      "name": "华夏幸福",
-      "change_pct": 10.17,
-      "price": 217658657.0,
-      "volume": 10.45,
-      "amount": -0.78,
-      "pe": 2.36,
-      "market_cap": -338.673458742175,
-      "timestamp": "2025-12-02 10:56:22"
+      "code": "300605",
+      "name": "恒锋信息",
+      "change_pct": 12.12,
+      "price": 28127151.0,
+      "volume": 38.45,
+      "amount": 232.02,
+      "pe": 16.66,
+      "market_cap": 142.375048115499,
+      "timestamp": "2025-12-02 15:13:17"
     },
     {
-      "code": "002702",
-      "name": "海欣食品",
-      "change_pct": 10.05,
-      "price": -124673739.0,
-      "volume": 31.74,
-      "amount": -129.55,
-      "pe": 7.62,
-      "market_cap": -17.935516642661,
-      "timestamp": "2025-12-02 10:56:22"
+      "code": "300437",
+      "name": "清水源",
+      "change_pct": 11.48,
+      "price": 54756882.0,
+      "volume": 44.72,
+      "amount": -125.24,
+      "pe": 20.01,
+      "market_cap": 33.65638189889,
+      "timestamp": "2025-12-02 15:13:17"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "船舶制造",
-      "popularity_score": 0.61,
-      "count": 1,
-      "avg_change": 3.8,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "11.67"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "医药商业",
-      "popularity_score": 0.55,
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 1.81,
+      "avg_change": 2.52,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,10 +127,34 @@
       "related_news": []
     },
     {
-      "theme_name": "包装材料",
-      "popularity_score": 0.53,
+      "theme_name": "船舶制造",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.06,
+      "avg_change": 2.42,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.85"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "铁路公路",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.1"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "包装材料",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.25,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -151,34 +163,10 @@
       "related_news": []
     },
     {
-      "theme_name": "化纤行业",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.76,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.05"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "装修装饰",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.72,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.98"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "装修建材",
-      "popularity_score": 0.52,
+      "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 0.72,
+      "avg_change": 0.88,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -187,26 +175,14 @@
       "related_news": []
     },
     {
-      "theme_name": "铁路公路",
+      "theme_name": "房地产服务",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.66,
+      "avg_change": 0.76,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "5.84"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "保险",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.6,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "1.7"
+        "9.87"
       ],
       "related_news": []
     },
@@ -214,7 +190,7 @@
       "theme_name": "煤炭行业",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.6,
+      "avg_change": 0.73,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,17 +199,41 @@
       "related_news": []
     },
     {
-      "theme_name": "橡胶制品",
+      "theme_name": "商业百货",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.5,
+      "avg_change": 0.63,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "5.72"
+        "9.93"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.56,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.58"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.51,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-12-02 10:56:28"
+  "generated_at": "2025-12-02 15:13:22"
 }
