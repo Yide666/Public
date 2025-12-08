@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-08",
+  "hot_stocks": [
+    {
+      "code": "301183",
+      "name": "东田微",
+      "change_pct": 20.0,
+      "price": 156022736.0,
+      "volume": 16.5,
+      "amount": 123.06,
+      "pe": 140.2,
+      "market_cap": 99.201918279204,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300290",
+      "name": "荣科科技",
+      "change_pct": 20.0,
+      "price": 189992324.0,
+      "volume": 8.32,
+      "amount": -476.92,
+      "pe": 27.0,
+      "market_cap": -378.821251351196,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "688800",
+      "name": "瑞可达",
+      "change_pct": 20.0,
+      "price": -2119424.0,
+      "volume": 11.95,
+      "amount": 57.45,
+      "pe": 73.15,
+      "market_cap": 119.886546710142,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300337",
+      "name": "银邦股份",
+      "change_pct": 19.98,
+      "price": 326973102.0,
+      "volume": 14.67,
+      "amount": 130.82,
+      "pe": 11.91,
+      "market_cap": -41.595613155727,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300427",
+      "name": "红相股份",
+      "change_pct": 19.98,
+      "price": 116405840.0,
+      "volume": 23.75,
+      "amount": 77.58,
+      "pe": 11.54,
+      "market_cap": 219.555846103663,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "change_pct": 18.96,
+      "price": 555453376.0,
+      "volume": 6.16,
+      "amount": 94.07,
+      "pe": 198.06,
+      "market_cap": 50.070316570611,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "301232",
+      "name": "飞沃科技",
+      "change_pct": 17.51,
+      "price": -6396588.0,
+      "volume": 18.12,
+      "amount": 112.05,
+      "pe": 76.24,
+      "market_cap": 163.264682107703,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300751",
+      "name": "迈为股份",
+      "change_pct": 16.86,
+      "price": 204256352.0,
+      "volume": 9.28,
+      "amount": 46.16,
+      "pe": 133.85,
+      "market_cap": -12.562456172065,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "688499",
+      "name": "利元亨",
+      "change_pct": 16.51,
+      "price": 47354411.0,
+      "volume": 8.35,
+      "amount": 169.04,
+      "pe": 56.6,
+      "market_cap": 109.135268438322,
+      "timestamp": "2025-12-08 10:59:13"
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "change_pct": 15.67,
+      "price": 233625760.0,
+      "volume": 9.79,
+      "amount": 273.19,
+      "pe": 144.04,
+      "market_cap": 106.613955278714,
+      "timestamp": "2025-12-08 10:59:13"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.35,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "玻璃玻纤",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.75,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.59,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "14.47"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "证券",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.27,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子元件",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.06,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.5"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.9,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.84,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.78"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "软件开发",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.73,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-08 10:59:19"
+}
