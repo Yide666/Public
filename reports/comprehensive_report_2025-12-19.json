@@ -4,121 +4,121 @@
     {
       "code": "688807",
       "name": "N优迅",
-      "change_pct": 350.37,
-      "price": 826760056.0,
-      "volume": 52.11,
-      "amount": 191.38,
+      "change_pct": 346.57,
+      "price": 1295154104.0,
+      "volume": 78.74,
+      "amount": 189.77,
       "pe": 228.15,
       "market_cap": 17.106338869648,
-      "timestamp": "2025-12-19 11:01:28"
+      "timestamp": "2025-12-19 15:13:13"
+    },
+    {
+      "code": "300557",
+      "name": "理工光科",
+      "change_pct": 20.01,
+      "price": 111226416.0,
+      "volume": 17.82,
+      "amount": 90.03,
+      "pe": 32.07,
+      "market_cap": 47.559668807483,
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
       "code": "300947",
       "name": "德必集团",
       "change_pct": 19.99,
-      "price": 109936782.0,
-      "volume": 14.53,
+      "price": 165716740.0,
+      "volume": 21.46,
       "amount": 253.98,
       "pe": 18.62,
       "market_cap": -54.852169548406,
-      "timestamp": "2025-12-19 11:01:28"
-    },
-    {
-      "code": "301488",
-      "name": "豪恩汽电",
-      "change_pct": 16.3,
-      "price": 165465641.0,
-      "volume": 35.69,
-      "amount": 177.48,
-      "pe": 140.0,
-      "market_cap": -7.17556822497,
-      "timestamp": "2025-12-19 11:01:28"
-    },
-    {
-      "code": "300446",
-      "name": "航天智造",
-      "change_pct": 14.67,
-      "price": 235257664.0,
-      "volume": 35.72,
-      "amount": 25.22,
-      "pe": 23.2,
-      "market_cap": 21.428465933909,
-      "timestamp": "2025-12-19 11:01:28"
-    },
-    {
-      "code": "688150",
-      "name": "莱特光电",
-      "change_pct": 14.49,
-      "price": 67800302.0,
-      "volume": 4.83,
-      "amount": 43.36,
-      "pe": 23.13,
-      "market_cap": 38.61672749506,
-      "timestamp": "2025-12-19 11:01:28"
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
       "code": "300703",
       "name": "创源股份",
-      "change_pct": 14.41,
-      "price": 33737415.0,
-      "volume": 12.0,
-      "amount": 45.71,
+      "change_pct": 19.98,
+      "price": 135833469.0,
+      "volume": 18.6,
+      "amount": 47.93,
       "pe": 23.27,
       "market_cap": 33.441847793022,
-      "timestamp": "2025-12-19 11:01:28"
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
-      "code": "300710",
-      "name": "万隆光电",
-      "change_pct": 13.83,
-      "price": -54042576.0,
-      "volume": 34.58,
-      "amount": -254.63,
-      "pe": 31.8,
-      "market_cap": -177.622126437919,
-      "timestamp": "2025-12-19 11:01:28"
+      "code": "301488",
+      "name": "豪恩汽电",
+      "change_pct": 18.58,
+      "price": 186798368.0,
+      "volume": 43.11,
+      "amount": 180.96,
+      "pe": 140.0,
+      "market_cap": -7.17556822497,
+      "timestamp": "2025-12-19 15:13:13"
+    },
+    {
+      "code": "300446",
+      "name": "航天智造",
+      "change_pct": 16.3,
+      "price": 282043552.0,
+      "volume": 42.17,
+      "amount": 25.58,
+      "pe": 23.2,
+      "market_cap": 21.428465933909,
+      "timestamp": "2025-12-19 15:13:13"
+    },
+    {
+      "code": "300997",
+      "name": "欢乐家",
+      "change_pct": 15.9,
+      "price": 134985067.0,
+      "volume": 9.98,
+      "amount": 1040.72,
+      "pe": 27.4,
+      "market_cap": -87.43242233613,
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
       "code": "300878",
       "name": "维康药业",
-      "change_pct": 13.52,
-      "price": 9097866.0,
-      "volume": 4.76,
-      "amount": -21.12,
+      "change_pct": 13.01,
+      "price": 9826478.0,
+      "volume": 6.18,
+      "amount": -21.03,
       "pe": 21.12,
       "market_cap": -380.86546608477,
-      "timestamp": "2025-12-19 11:01:28"
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
-      "code": "301119",
-      "name": "正强股份",
-      "change_pct": 13.49,
-      "price": -9806255.0,
-      "volume": 5.96,
-      "amount": 44.85,
-      "pe": 46.0,
-      "market_cap": 37.353692650501,
-      "timestamp": "2025-12-19 11:01:28"
+      "code": "301016",
+      "name": "雷尔伟",
+      "change_pct": 12.97,
+      "price": 16863486.0,
+      "volume": 4.87,
+      "amount": 75.25,
+      "pe": 18.21,
+      "market_cap": -3.089191384784,
+      "timestamp": "2025-12-19 15:13:13"
     },
     {
-      "code": "688326",
-      "name": "经纬恒润-W",
-      "change_pct": 13.27,
-      "price": 47779404.0,
-      "volume": 3.49,
-      "amount": -133.35,
-      "pe": 97.1,
-      "market_cap": 81.702961263173,
-      "timestamp": "2025-12-19 11:01:28"
+      "code": "688387",
+      "name": "信科移动-U",
+      "change_pct": 12.94,
+      "price": 64048160.0,
+      "volume": 12.92,
+      "amount": -158.65,
+      "pe": 9.39,
+      "market_cap": 2.835544687828,
+      "timestamp": "2025-12-19 15:13:13"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "房地产服务",
-      "popularity_score": 0.59,
+      "popularity_score": 0.6,
       "count": 1,
-      "avg_change": 3.16,
+      "avg_change": 3.41,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -130,43 +130,19 @@
       "theme_name": "商业百货",
       "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 3.11,
+      "avg_change": 3.16,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
         "10.02"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "包装材料",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.38,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.02"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "汽车零部件",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.24,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
       ],
       "related_news": []
     },
     {
       "theme_name": "食品饮料",
-      "popularity_score": 0.56,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.13,
+      "avg_change": 2.87,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -175,22 +151,22 @@
       "related_news": []
     },
     {
-      "theme_name": "房地产开发",
-      "popularity_score": 0.56,
+      "theme_name": "包装材料",
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 1.95,
+      "avg_change": 2.85,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.1"
+        "10.02"
       ],
       "related_news": []
     },
     {
       "theme_name": "纺织服装",
-      "popularity_score": 0.56,
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 1.86,
+      "avg_change": 2.53,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +175,65 @@
       "related_news": []
     },
     {
-      "theme_name": "汽车服务",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 1.84,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "4.11"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "家用轻工",
-      "popularity_score": 0.55,
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.83,
+      "avg_change": 2.45,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "14.41"
+        "19.98"
       ],
       "related_news": []
     },
     {
-      "theme_name": "医疗服务",
-      "popularity_score": 0.55,
+      "theme_name": "汽车服务",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.74,
+      "avg_change": 2.41,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.08"
+        "4.16"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产开发",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.37,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.34,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.48"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车零部件",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.33,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-12-19 11:01:34"
+  "generated_at": "2025-12-19 15:13:19"
 }
