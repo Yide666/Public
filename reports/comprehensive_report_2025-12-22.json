@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-22",
+  "hot_stocks": [
+    {
+      "code": "300189",
+      "name": "神农种业",
+      "change_pct": 20.03,
+      "price": 275810314.0,
+      "volume": 40.23,
+      "amount": 968.3,
+      "pe": 5.95,
+      "market_cap": 126.674538355863,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "688125",
+      "name": "安达智能",
+      "change_pct": 20.0,
+      "price": 17966994.0,
+      "volume": 2.04,
+      "amount": -61.88,
+      "pe": 81.19,
+      "market_cap": -933.968726707429,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "301611",
+      "name": "珂玛科技",
+      "change_pct": 20.0,
+      "price": 192637408.0,
+      "volume": 14.22,
+      "amount": 102.0,
+      "pe": 67.09,
+      "market_cap": 8.290127862108,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "300086",
+      "name": "康芝药业",
+      "change_pct": 19.96,
+      "price": 299476119.0,
+      "volume": 23.89,
+      "amount": -46.71,
+      "pe": 11.05,
+      "market_cap": 21.281776584988,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "300506",
+      "name": "*ST名家",
+      "change_pct": 19.94,
+      "price": 601435.0,
+      "volume": 0.05,
+      "amount": -35.72,
+      "pe": 3.79,
+      "market_cap": -231.422870167351,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "300344",
+      "name": "*ST立方",
+      "change_pct": 19.63,
+      "price": 12912527.0,
+      "volume": 15.15,
+      "amount": -9.9,
+      "pe": 1.09,
+      "market_cap": -20.593175327764,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "300321",
+      "name": "同大股份",
+      "change_pct": 19.06,
+      "price": 18260559.0,
+      "volume": 8.7,
+      "amount": 317.66,
+      "pe": 44.81,
+      "market_cap": -3.803736600683,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "688679",
+      "name": "通源环境",
+      "change_pct": 18.61,
+      "price": 15514444.0,
+      "volume": 7.71,
+      "amount": -158.2,
+      "pe": 22.92,
+      "market_cap": -345.82144113157,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "688627",
+      "name": "精智达",
+      "change_pct": 17.54,
+      "price": -73028448.0,
+      "volume": 6.99,
+      "amount": 415.82,
+      "pe": 214.5,
+      "market_cap": -19.290145578505,
+      "timestamp": "2025-12-22 11:12:31"
+    },
+    {
+      "code": "688720",
+      "name": "艾森股份",
+      "change_pct": 16.88,
+      "price": 88042536.0,
+      "volume": 15.55,
+      "amount": 134.09,
+      "pe": 59.29,
+      "market_cap": 44.673724679028,
+      "timestamp": "2025-12-22 11:12:31"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.4,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子化学品",
+      "popularity_score": 0.61,
+      "count": 1,
+      "avg_change": 3.66,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "16.6"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.8,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.28"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.54,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.49,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电机",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.27,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子元件",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "非金属材料",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.98,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航空机场",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.91,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-22 11:12:38"
+}
