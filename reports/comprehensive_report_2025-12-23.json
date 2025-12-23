@@ -4,149 +4,125 @@
     {
       "code": "301667",
       "name": "N纳百川",
-      "change_pct": 211.62,
-      "price": 310103991.0,
-      "volume": 60.15,
-      "amount": 101.33,
+      "change_pct": 408.17,
+      "price": 508753902.0,
+      "volume": 86.16,
+      "amount": 165.24,
       "pe": 59.99,
       "market_cap": 29.304547772911,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "603248",
       "name": "N锡华",
-      "change_pct": 146.04,
-      "price": 204063557.0,
-      "volume": 47.49,
-      "amount": 53.06,
-      "pe": 24.8,
+      "change_pct": 264.46,
+      "price": 372194884.0,
+      "volume": 80.28,
+      "amount": 78.6,
+      "pe": 24.02,
       "market_cap": 55.222798326643,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "301449",
       "name": "N天溯",
-      "change_pct": 117.42,
-      "price": 181189698.0,
-      "volume": 54.67,
-      "amount": 42.09,
+      "change_pct": 174.48,
+      "price": 300265593.0,
+      "volume": 84.79,
+      "amount": 53.13,
       "pe": 76.02,
       "market_cap": 11.618298355941,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
+    },
+    {
+      "code": "300726",
+      "name": "宏达电子",
+      "change_pct": 20.0,
+      "price": 267944192.0,
+      "volume": 19.59,
+      "amount": 49.89,
+      "pe": 44.5,
+      "market_cap": 25.072153767939,
+      "timestamp": "2025-12-23 15:14:56"
+    },
+    {
+      "code": "301123",
+      "name": "奕东电子",
+      "change_pct": 20.0,
+      "price": 218844591.0,
+      "volume": 16.93,
+      "amount": 445.01,
+      "pe": 58.3,
+      "market_cap": 68.389954072208,
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "688376",
       "name": "美埃科技",
       "change_pct": 20.0,
-      "price": 62100428.0,
-      "volume": 5.09,
+      "price": 96142978.0,
+      "volume": 6.9,
       "amount": 46.22,
       "pe": 53.62,
       "market_cap": -5.166748541976,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "300990",
       "name": "同飞股份",
       "change_pct": 20.0,
-      "price": 113728013.0,
-      "volume": 12.5,
+      "price": 151962347.0,
+      "volume": 14.41,
       "amount": 65.93,
       "pe": 78.4,
       "market_cap": 158.10968160245,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "300414",
       "name": "中光防雷",
       "change_pct": 20.0,
-      "price": 333353506.0,
-      "volume": 23.35,
+      "price": 372171895.0,
+      "volume": 24.64,
       "amount": 221.76,
       "pe": 12.8,
       "market_cap": 342.886881355303,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "301626",
       "name": "苏州天脉",
-      "change_pct": 18.77,
-      "price": -50735478.0,
-      "volume": 7.1,
-      "amount": 121.66,
+      "change_pct": 16.08,
+      "price": -123294987.0,
+      "volume": 9.72,
+      "amount": 118.9,
       "pe": 171.0,
       "market_cap": 1.541963205638,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     },
     {
       "code": "688125",
       "name": "安达智能",
-      "change_pct": 15.73,
-      "price": 6134996.0,
-      "volume": 3.13,
-      "amount": -70.19,
+      "change_pct": 15.51,
+      "price": -19551440.0,
+      "volume": 5.01,
+      "amount": -70.06,
       "pe": 94.02,
       "market_cap": -933.968726707429,
-      "timestamp": "2025-12-23 11:04:52"
-    },
-    {
-      "code": "301056",
-      "name": "森赫股份",
-      "change_pct": 13.61,
-      "price": 19242069.0,
-      "volume": 8.13,
-      "amount": 47.9,
-      "pe": 11.69,
-      "market_cap": -30.355998179995,
-      "timestamp": "2025-12-23 11:04:52"
-    },
-    {
-      "code": "300726",
-      "name": "宏达电子",
-      "change_pct": 13.47,
-      "price": 109944302.0,
-      "volume": 12.48,
-      "amount": 47.17,
-      "pe": 44.5,
-      "market_cap": 25.072153767939,
-      "timestamp": "2025-12-23 11:04:52"
+      "timestamp": "2025-12-23 15:14:56"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "能源金属",
-      "popularity_score": 0.59,
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 3.16,
+      "avg_change": 2.74,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.38"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "贵金属",
-      "popularity_score": 0.59,
-      "count": 1,
-      "avg_change": 2.94,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "7.83"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "玻璃玻纤",
-      "popularity_score": 0.59,
-      "count": 1,
-      "avg_change": 2.91,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.01"
+        "8.48"
       ],
       "related_news": []
     },
@@ -154,7 +130,7 @@
       "theme_name": "电池",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.87,
+      "avg_change": 1.88,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,22 +139,10 @@
       "related_news": []
     },
     {
-      "theme_name": "小金属",
+      "theme_name": "玻璃玻纤",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.56,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电子化学品",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.54,
+      "avg_change": 1.73,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -187,53 +151,89 @@
       "related_news": []
     },
     {
-      "theme_name": "保险",
-      "popularity_score": 0.55,
+      "theme_name": "电子化学品",
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.5,
+      "avg_change": 1.4,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "1.93"
+        "10.01"
       ],
       "related_news": []
     },
     {
-      "theme_name": "有色金属",
-      "popularity_score": 0.53,
+      "theme_name": "贵金属",
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.14,
+      "avg_change": 1.29,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.33"
+        "6.91"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.55"
       ],
       "related_news": []
     },
     {
       "theme_name": "非金属材料",
-      "popularity_score": 0.53,
+      "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 1.14,
+      "avg_change": 0.67,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "11.71"
+        "9.7"
       ],
       "related_news": []
     },
     {
-      "theme_name": "化肥行业",
-      "popularity_score": 0.51,
+      "theme_name": "小金属",
+      "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.48,
+      "avg_change": 0.6,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "3.76"
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.63"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-12-23 11:05:07"
+  "generated_at": "2025-12-23 15:15:02"
 }
