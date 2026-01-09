@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-09",
+  "hot_stocks": [
+    {
+      "code": "300051",
+      "name": "琏升科技",
+      "change_pct": 20.06,
+      "price": 33802923.0,
+      "volume": 18.94,
+      "amount": -26.87,
+      "pe": 7.78,
+      "market_cap": -36.085836741324,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "300986",
+      "name": "志特新材",
+      "change_pct": 20.02,
+      "price": 46257132.0,
+      "volume": 4.48,
+      "amount": 72.93,
+      "pe": 27.1,
+      "market_cap": 98.650687796944,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "688543",
+      "name": "国科军工",
+      "change_pct": 20.0,
+      "price": 103715747.0,
+      "volume": 18.0,
+      "amount": 83.22,
+      "pe": 64.76,
+      "market_cap": -4.210065803456,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "688387",
+      "name": "信科移动-U",
+      "change_pct": 20.0,
+      "price": 289652752.0,
+      "volume": 8.16,
+      "amount": -246.13,
+      "pe": 14.15,
+      "market_cap": 2.835544687828,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "change_pct": 20.0,
+      "price": 598228848.0,
+      "volume": 29.34,
+      "amount": 91.6,
+      "pe": 44.26,
+      "market_cap": 4.409496361435,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "301079",
+      "name": "邵阳液压",
+      "change_pct": 19.92,
+      "price": -67860048.0,
+      "volume": 44.23,
+      "amount": 1973.11,
+      "pe": 54.97,
+      "market_cap": -85.455460008276,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "688196",
+      "name": "卓越新能",
+      "change_pct": 19.53,
+      "price": -12106073.0,
+      "volume": 3.78,
+      "amount": 43.0,
+      "pe": 66.98,
+      "market_cap": 81.235037437615,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "300244",
+      "name": "迪安诊断",
+      "change_pct": 19.45,
+      "price": 189054064.0,
+      "volume": 17.14,
+      "amount": 178.72,
+      "pe": 18.8,
+      "market_cap": -56.666523488369,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "300807",
+      "name": "天迈科技",
+      "change_pct": 17.97,
+      "price": 16399285.0,
+      "volume": 9.2,
+      "amount": -212.35,
+      "pe": 53.81,
+      "market_cap": 70.966304383175,
+      "timestamp": "2026-01-09 11:10:24"
+    },
+    {
+      "code": "688281",
+      "name": "华秦科技",
+      "change_pct": 17.99,
+      "price": 40450309.0,
+      "volume": 2.84,
+      "amount": 77.31,
+      "pe": 79.0,
+      "market_cap": -21.478954650514,
+      "timestamp": "2026-01-09 11:10:24"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.61,
+      "count": 1,
+      "avg_change": 3.56,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.29,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.75"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.19,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.1,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.88,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.12"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "软件开发",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-09 11:10:41"
+}
