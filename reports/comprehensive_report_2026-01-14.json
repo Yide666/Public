@@ -5,120 +5,120 @@
       "code": "300427",
       "name": "红相股份",
       "change_pct": 20.03,
-      "price": 518349008.0,
-      "volume": 30.53,
+      "price": 514325616.0,
+      "volume": 46.41,
       "amount": 96.49,
       "pe": 12.85,
       "market_cap": 219.555846103663,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "300773",
       "name": "拉卡拉",
       "change_pct": 20.01,
-      "price": 772523312.0,
-      "volume": 17.17,
+      "price": 1289052896.0,
+      "volume": 27.64,
       "amount": 55.12,
       "pe": 27.23,
       "market_cap": -33.897308365046,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "300758",
       "name": "七彩化学",
       "change_pct": 20.01,
-      "price": 234544935.0,
-      "volume": 13.12,
+      "price": 256427688.0,
+      "volume": 14.31,
       "amount": 69.92,
       "pe": 13.72,
       "market_cap": -38.959414165197,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
-      "code": "688419",
-      "name": "耐科装备",
+      "code": "688292",
+      "name": "浩瀚深度",
       "change_pct": 20.01,
-      "price": 34161563.0,
-      "volume": 10.03,
-      "amount": 52.58,
-      "pe": 34.21,
-      "market_cap": 14.701902195918,
-      "timestamp": "2026-01-14 11:16:04"
+      "price": 39686142.0,
+      "volume": 24.26,
+      "amount": -481.68,
+      "pe": 30.51,
+      "market_cap": -124.881191176479,
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "301321",
       "name": "翰博高新",
       "change_pct": 20.01,
-      "price": 56193636.0,
-      "volume": 10.64,
+      "price": 68807328.0,
+      "volume": 11.52,
       "amount": -366.48,
       "pe": 19.28,
       "market_cap": 91.132571292936,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
+    },
+    {
+      "code": "300792",
+      "name": "壹网壹创",
+      "change_pct": 20.01,
+      "price": -67469904.0,
+      "volume": 24.85,
+      "amount": 88.98,
+      "pe": 40.41,
+      "market_cap": 3.944209064757,
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "300520",
       "name": "科大国创",
       "change_pct": 20.01,
-      "price": 427629504.0,
-      "volume": 24.26,
+      "price": 373833408.0,
+      "volume": 38.38,
       "amount": -96.48,
       "pe": 43.61,
       "market_cap": -152.013136640494,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "301378",
       "name": "通达海",
       "change_pct": 20.0,
-      "price": 27983569.0,
-      "volume": 32.94,
+      "price": 37097041.0,
+      "volume": 34.39,
       "amount": -78.38,
       "pe": 43.4,
       "market_cap": -3.517765464803,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "301159",
       "name": "三维天地",
       "change_pct": 20.0,
-      "price": -27456651.0,
-      "volume": 30.77,
+      "price": -34230872.0,
+      "volume": 36.79,
       "amount": -47.66,
       "pe": 53.55,
       "market_cap": 32.485880384793,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     },
     {
       "code": "688479",
       "name": "友车科技",
       "change_pct": 20.0,
-      "price": 40195472.0,
-      "volume": 14.22,
+      "price": 69755828.0,
+      "volume": 20.61,
       "amount": 132.88,
       "pe": 20.64,
       "market_cap": -65.725886874287,
-      "timestamp": "2026-01-14 11:16:04"
-    },
-    {
-      "code": "688365",
-      "name": "光云科技",
-      "change_pct": 20.0,
-      "price": 35862165.0,
-      "volume": 4.66,
-      "amount": -726.62,
-      "pe": 30.31,
-      "market_cap": 73.032314899852,
-      "timestamp": "2026-01-14 11:16:04"
+      "timestamp": "2026-01-14 15:16:29"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "互联网服务",
-      "popularity_score": 0.67,
+      "popularity_score": 0.64,
       "count": 1,
-      "avg_change": 5.79,
+      "avg_change": 4.69,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -128,9 +128,9 @@
     },
     {
       "theme_name": "软件开发",
-      "popularity_score": 0.67,
+      "popularity_score": 0.61,
       "count": 1,
-      "avg_change": 5.73,
+      "avg_change": 3.65,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -140,21 +140,9 @@
     },
     {
       "theme_name": "文化传媒",
-      "popularity_score": 0.63,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 4.41,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.04"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "通信设备",
-      "popularity_score": 0.61,
-      "count": 1,
-      "avg_change": 3.57,
+      "avg_change": 2.85,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,77 +151,89 @@
       "related_news": []
     },
     {
-      "theme_name": "游戏",
-      "popularity_score": 0.61,
+      "theme_name": "采掘行业",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 3.55,
+      "avg_change": 2.26,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.0"
+        "14.56"
       ],
       "related_news": []
     },
     {
-      "theme_name": "计算机设备",
-      "popularity_score": 0.6,
+      "theme_name": "通信设备",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 3.5,
+      "avg_change": 2.25,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.97"
+        "10.01"
       ],
       "related_news": []
     },
     {
-      "theme_name": "医疗服务",
-      "popularity_score": 0.6,
+      "theme_name": "贵金属",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 3.49,
+      "avg_change": 2.03,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "半导体",
-      "popularity_score": 0.6,
-      "count": 1,
-      "avg_change": 3.22,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "15.14"
+        "9.98"
       ],
       "related_news": []
     },
     {
       "theme_name": "通信服务",
-      "popularity_score": 0.59,
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 3.01,
+      "avg_change": 1.98,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "17.27"
+        "17.02"
       ],
       "related_news": []
     },
     {
       "theme_name": "电子化学品",
-      "popularity_score": 0.59,
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 3.0,
+      "avg_change": 1.71,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.32"
+        "14.28"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "14.82"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.66,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2026-01-14 11:16:10"
+  "generated_at": "2026-01-14 15:16:35"
 }
