@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-15",
+  "hot_stocks": [
+    {
+      "code": "603352",
+      "name": "N至信",
+      "change_pct": 238.48,
+      "price": 684051631.0,
+      "volume": 59.83,
+      "amount": 76.3,
+      "pe": 66.0,
+      "market_cap": 21.425653963672,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300452",
+      "name": "山河药辅",
+      "change_pct": 20.01,
+      "price": 110577380.0,
+      "volume": 16.86,
+      "amount": 22.35,
+      "pe": 14.66,
+      "market_cap": 8.280972190292,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300758",
+      "name": "七彩化学",
+      "change_pct": 20.0,
+      "price": 95797024.0,
+      "volume": 11.97,
+      "amount": 83.9,
+      "pe": 19.6,
+      "market_cap": -38.959414165197,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300479",
+      "name": "神思电子",
+      "change_pct": 18.54,
+      "price": 88423110.0,
+      "volume": 24.11,
+      "amount": -34.25,
+      "pe": 20.38,
+      "market_cap": 6.196626441399,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300530",
+      "name": "领湃科技",
+      "change_pct": 15.69,
+      "price": 36815218.0,
+      "volume": 9.24,
+      "amount": -37.12,
+      "pe": 28.03,
+      "market_cap": 20.464897441151,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300331",
+      "name": "苏大维格",
+      "change_pct": 13.05,
+      "price": -16903822.0,
+      "volume": 17.97,
+      "amount": 246.76,
+      "pe": 40.79,
+      "market_cap": -9.369314246426,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300969",
+      "name": "恒帅股份",
+      "change_pct": 12.72,
+      "price": 60127108.0,
+      "volume": 5.89,
+      "amount": 96.1,
+      "pe": 129.0,
+      "market_cap": -21.069425479977,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "688155",
+      "name": "先惠技术",
+      "change_pct": 12.52,
+      "price": 97810444.0,
+      "volume": 6.51,
+      "amount": 40.18,
+      "pe": 75.88,
+      "market_cap": 9.170078288486,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300563",
+      "name": "神宇股份",
+      "change_pct": 12.15,
+      "price": 173402869.0,
+      "volume": 22.22,
+      "amount": 109.3,
+      "pe": 38.05,
+      "market_cap": -20.859222804038,
+      "timestamp": "2026-01-15 11:11:15"
+    },
+    {
+      "code": "300340",
+      "name": "科恒股份",
+      "change_pct": 11.32,
+      "price": 44211471.0,
+      "volume": 14.0,
+      "amount": -21.11,
+      "pe": 12.55,
+      "market_cap": -22.29062336894,
+      "timestamp": "2026-01-15 11:11:15"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.65,
+      "count": 1,
+      "avg_change": 4.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.62,
+      "count": 1,
+      "avg_change": 3.96,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.34"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电池",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.87,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "15.69"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.46,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.75"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.03,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子化学品",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.21,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学原料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学制品",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-15 11:11:21"
+}
