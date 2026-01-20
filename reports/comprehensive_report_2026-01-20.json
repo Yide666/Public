@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-20",
+  "hot_stocks": [
+    {
+      "code": "300391",
+      "name": "*ST长药",
+      "change_pct": 20.45,
+      "price": 2668975.0,
+      "volume": 14.68,
+      "amount": -0.66,
+      "pe": 0.44,
+      "market_cap": -15.892862955449,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "688380",
+      "name": "中微半导",
+      "change_pct": 19.99,
+      "price": 225281117.0,
+      "volume": 10.84,
+      "amount": 81.53,
+      "pe": 37.0,
+      "market_cap": 36.779830432743,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300927",
+      "name": "江天化学",
+      "change_pct": 19.99,
+      "price": 129551321.0,
+      "volume": 12.85,
+      "amount": 399.66,
+      "pe": 25.06,
+      "market_cap": -75.841811680379,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300242",
+      "name": "佳云科技",
+      "change_pct": 19.92,
+      "price": 159250760.0,
+      "volume": 18.11,
+      "amount": -102.56,
+      "pe": 5.46,
+      "market_cap": 28.448792124575,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300344",
+      "name": "*ST立方",
+      "change_pct": 19.4,
+      "price": 3454488.0,
+      "volume": 4.25,
+      "amount": -6.19,
+      "pe": 0.73,
+      "market_cap": -20.593175327764,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300986",
+      "name": "志特新材",
+      "change_pct": 17.82,
+      "price": -58821520.0,
+      "volume": 14.37,
+      "amount": 87.72,
+      "pe": 30.0,
+      "market_cap": 98.650687796944,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "301102",
+      "name": "兆讯传媒",
+      "change_pct": 14.68,
+      "price": 30201471.0,
+      "volume": 5.44,
+      "amount": 121.65,
+      "pe": 11.65,
+      "market_cap": -50.249526618519,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300758",
+      "name": "七彩化学",
+      "change_pct": 14.3,
+      "price": 95353244.0,
+      "volume": 21.57,
+      "amount": 79.26,
+      "pe": 16.73,
+      "market_cap": -38.959414165197,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "300626",
+      "name": "华瑞股份",
+      "change_pct": 14.28,
+      "price": 13684782.0,
+      "volume": 13.52,
+      "amount": 196.22,
+      "pe": 17.12,
+      "market_cap": -17.789923469389,
+      "timestamp": "2026-01-20 11:13:24"
+    },
+    {
+      "code": "301348",
+      "name": "蓝箭电子",
+      "change_pct": 12.12,
+      "price": 92587526.0,
+      "volume": 36.09,
+      "amount": -243.77,
+      "pe": 31.52,
+      "market_cap": -28229.487539432,
+      "timestamp": "2026-01-20 11:13:24"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "2.5"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.33,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.12"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.32,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航空机场",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.16"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产开发",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.03,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.11"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "水泥建材",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.02,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "2.34"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "装修建材",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.78"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学原料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.57,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-20 11:13:36"
+}
