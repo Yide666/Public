@@ -5,180 +5,132 @@
       "code": "300391",
       "name": "*ST长药",
       "change_pct": 20.75,
-      "price": -4063510.0,
-      "volume": 14.75,
+      "price": -4082374.0,
+      "volume": 14.83,
       "amount": -0.8,
       "pe": 0.55,
       "market_cap": -15.892862955449,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
     },
     {
       "code": "688047",
       "name": "龙芯中科",
       "change_pct": 20.0,
-      "price": 452369360.0,
-      "volume": 2.99,
+      "price": 520987216.0,
+      "volume": 3.26,
       "amount": -135.72,
       "pe": 153.04,
       "market_cap": -14.89473976171,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
+    },
+    {
+      "code": "301486",
+      "name": "致尚科技",
+      "change_pct": 20.0,
+      "price": 77562829.0,
+      "volume": 12.03,
+      "amount": 96.5,
+      "pe": 135.05,
+      "market_cap": 173.364681383015,
+      "timestamp": "2026-01-21 15:18:43"
+    },
+    {
+      "code": "301200",
+      "name": "大族数控",
+      "change_pct": 20.0,
+      "price": 77412542.0,
+      "volume": 2.21,
+      "amount": 104.71,
+      "pe": 133.55,
+      "market_cap": 142.185534911249,
+      "timestamp": "2026-01-21 15:18:43"
     },
     {
       "code": "301031",
       "name": "中熔电气",
       "change_pct": 20.0,
-      "price": 144471228.0,
-      "volume": 6.86,
+      "price": 157970190.0,
+      "volume": 7.31,
       "amount": 43.68,
       "pe": 142.52,
       "market_cap": 101.774440293756,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
     },
     {
       "code": "301023",
       "name": "奕帆传动",
       "change_pct": 20.0,
-      "price": 48348767.0,
-      "volume": 8.0,
+      "price": 51937154.0,
+      "volume": 8.21,
       "amount": 56.2,
       "pe": 55.92,
       "market_cap": -19.066675167364,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
+    },
+    {
+      "code": "300837",
+      "name": "浙矿股份",
+      "change_pct": 20.0,
+      "price": 30897013.0,
+      "volume": 13.21,
+      "amount": 77.2,
+      "pe": 45.98,
+      "market_cap": -42.624522412112,
+      "timestamp": "2026-01-21 15:18:43"
     },
     {
       "code": "300344",
       "name": "*ST立方",
       "change_pct": 20.0,
-      "price": -2049746.0,
-      "volume": 10.88,
+      "price": -1752818.0,
+      "volume": 11.04,
       "amount": -7.43,
       "pe": 0.89,
       "market_cap": -20.593175327764,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
+    },
+    {
+      "code": "300606",
+      "name": "金太阳",
+      "change_pct": 19.96,
+      "price": 99568640.0,
+      "volume": 44.16,
+      "amount": 193.58,
+      "pe": 30.89,
+      "market_cap": 2.827802522205,
+      "timestamp": "2026-01-21 15:18:43"
     },
     {
       "code": "688630",
       "name": "芯碁微装",
-      "change_pct": 20.0,
-      "price": 72258112.0,
-      "volume": 7.72,
-      "amount": 99.96,
+      "change_pct": 16.26,
+      "price": 4214784.0,
+      "volume": 10.87,
+      "amount": 96.85,
       "pe": 175.0,
       "market_cap": 28.203320690598,
-      "timestamp": "2026-01-21 11:12:44"
-    },
-    {
-      "code": "300903",
-      "name": "科翔股份",
-      "change_pct": 15.88,
-      "price": 67806884.0,
-      "volume": 16.96,
-      "amount": -65.6,
-      "pe": 21.45,
-      "market_cap": 31.578564653655,
-      "timestamp": "2026-01-21 11:12:44"
-    },
-    {
-      "code": "688141",
-      "name": "杰华特",
-      "change_pct": 15.34,
-      "price": 90904153.0,
-      "volume": 4.86,
-      "amount": -39.43,
-      "pe": 48.0,
-      "market_cap": 9.293127184805,
-      "timestamp": "2026-01-21 11:12:44"
-    },
-    {
-      "code": "300837",
-      "name": "浙矿股份",
-      "change_pct": 14.67,
-      "price": 4192727.0,
-      "volume": 9.48,
-      "amount": 73.78,
-      "pe": 45.98,
-      "market_cap": -42.624522412112,
-      "timestamp": "2026-01-21 11:12:44"
-    },
-    {
-      "code": "688041",
-      "name": "海光信息",
-      "change_pct": 13.42,
-      "price": 894667904.0,
-      "volume": 2.03,
-      "amount": 256.25,
-      "pe": 263.49,
-      "market_cap": 28.55888149751,
-      "timestamp": "2026-01-21 11:12:44"
+      "timestamp": "2026-01-21 15:18:43"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "贵金属",
-      "popularity_score": 0.69,
+      "popularity_score": 0.78,
       "count": 1,
-      "avg_change": 6.21,
+      "avg_change": 9.24,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.0"
+        "10.02"
       ],
       "related_news": []
     },
     {
       "theme_name": "能源金属",
-      "popularity_score": 0.62,
+      "popularity_score": 0.64,
       "count": 1,
-      "avg_change": 4.09,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "半导体",
-      "popularity_score": 0.58,
-      "count": 1,
-      "avg_change": 2.67,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "小金属",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.37,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电机",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.34,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "20.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电子元件",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.33,
+      "avg_change": 4.6,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -188,21 +140,33 @@
     },
     {
       "theme_name": "采掘行业",
-      "popularity_score": 0.56,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.09,
+      "avg_change": 2.89,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.72"
+        "10.08"
       ],
       "related_news": []
     },
     {
-      "theme_name": "电源设备",
-      "popularity_score": 0.55,
+      "theme_name": "电机",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 1.69,
+      "avg_change": 2.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.7,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -211,10 +175,46 @@
       "related_news": []
     },
     {
+      "theme_name": "小金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.51,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子元件",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.35,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子化学品",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.72,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
       "theme_name": "有色金属",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.56,
+      "avg_change": 1.71,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,17 +223,17 @@
       "related_news": []
     },
     {
-      "theme_name": "电子化学品",
-      "popularity_score": 0.54,
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.49,
+      "avg_change": 1.7,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.02"
+        "5.36"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2026-01-21 11:12:51"
+  "generated_at": "2026-01-21 15:18:48"
 }
